@@ -1,5 +1,7 @@
 # react-notas
- 
+
+<img src="se2.gif" width="300px" align="center">
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
